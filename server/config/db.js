@@ -1,6 +1,6 @@
 import mongoose from 'mongoose'
 mongoose
-        .connect("mongodb+srv://thasnim:thasnim123@cluster0.hvn7j.mongodb.net/lab")
+        .connect("mongodb+srv://shop12:shop123@sample.kvxwkea.mongodb.net/testmern")
         .then(()=>{
             console.log("connected to mongodb");
         })
